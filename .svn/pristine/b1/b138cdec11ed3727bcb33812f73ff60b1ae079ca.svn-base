@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IPAKeypad", "IPAKeypad\IPAKeypad.vbproj", "{ED09E32C-B702-403D-AEC0-3EA181B37782}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2107FE48-0A2E-4C4C-B274-2351423A2306}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\IPAKeypad.vsd = ..\..\..\..\Desktop\IPAKeypad.vsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED09E32C-B702-403D-AEC0-3EA181B37782}.Debug|x86.ActiveCfg = Debug|x86
+		{ED09E32C-B702-403D-AEC0-3EA181B37782}.Debug|x86.Build.0 = Debug|x86
+		{ED09E32C-B702-403D-AEC0-3EA181B37782}.Release|x86.ActiveCfg = Release|x86
+		{ED09E32C-B702-403D-AEC0-3EA181B37782}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

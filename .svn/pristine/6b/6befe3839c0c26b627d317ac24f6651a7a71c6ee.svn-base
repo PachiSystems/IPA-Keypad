@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>ftp://ftp.javaproductions.net/pachisystems/htdocs/software/ipakeypad/|ftp://ftp.powweb.com/pachisystems/htdocs/software/ipakeypad/|C:\Users\Brian Milton\Desktop\|C:\Users\Brian Milton\Desktop\IPA Keypad Distro Pack\IPAKeypad3\|ftp://ftp.powweb.com/software/htdocs/IPAKeypad/</PublishUrlHistory>
+    <InstallUrlHistory>http://www.pachisystems.com/software/ipakeypad/|http://software.javaproductions.net/IPAKeypad/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.pachisystems.com/|http://software.javaproductions.net/</SupportUrlHistory>
+    <UpdateUrlHistory>http://www.pachisystems.com/software/ipakeypad/|http://software.javaproductions.net/IPAKeypad/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>http://www.pachisystems.com/|http://software.javaproductions.net/</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
