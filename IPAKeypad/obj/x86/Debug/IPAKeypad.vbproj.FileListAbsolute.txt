@@ -41,3 +41,7 @@ C:\Users\Brian Milton\Documents\Visual Studio 2010\Projects\IPAKeypad\IPAKeypad\
 C:\Users\Brian Milton\Documents\Visual Studio 2010\Projects\IPAKeypad\IPAKeypad\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Brian Milton\Documents\Visual Studio 2010\Projects\IPAKeypad\IPAKeypad\obj\x86\Debug\IPAKeypad.exe.manifest
 C:\Users\Brian Milton\Documents\Visual Studio 2010\Projects\IPAKeypad\IPAKeypad\obj\x86\Debug\IPAKeypad.application
+C:\Repositories\IPAKeypad\IPAKeypad\bin\Debug\IPAKeypad.exe.config
+C:\Repositories\IPAKeypad\IPAKeypad\obj\x86\Debug\IPAKeypad.exe
+C:\Repositories\IPAKeypad\IPAKeypad\obj\x86\Debug\IPAKeypad.xml
+C:\Repositories\IPAKeypad\IPAKeypad\obj\x86\Debug\IPAKeypad.pdb
